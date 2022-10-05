@@ -1,0 +1,2178 @@
+term1	term2	score
+technical director	technical director	1
+technical director	technical and operations director	1
+technical director	head of technical	1
+technical director	translation agency manager	0
+technical director	language translation agency manager	0
+technical director	wind turbine technician	0
+technical director	off-shore wind turbine repair technician	0
+technical director	wholesale merchant in office furniture	0
+technical director	import export manager in chemical products	0
+technical director	senior export manager in chemical products	0
+metal drawing machine operator	metal drawing machine operator	1
+metal drawing machine operator	metal drawing machine technician	1
+metal drawing machine operator	metal drawing machine operative	1
+metal drawing machine operator	intelligence officer	0
+metal drawing machine operator	counter-terrorism analyst	0
+metal drawing machine operator	ship duty engineer	0
+metal drawing machine operator	duty engineer on a ship	0
+metal drawing machine operator	fluid power engineer	0
+metal drawing machine operator	fluid power assembler	0
+metal drawing machine operator	e-learning architect	0
+metal drawing machine operator	elearning developer	0
+precision device inspector	precision device inspector	1
+precision device inspector	inspector of precision instruments	1
+precision device inspector	precision device quality control supervisor	1
+precision device inspector	train dispatcher	0
+precision device inspector	platform assistant	0
+precision device inspector	rail operations manager	0
+precision device inspector	railway operations specialist	0
+precision device inspector	waterway construction labourer	0
+precision device inspector	waterway construction worker	0
+precision device inspector	modern languages teacher secondary school	0
+precision device inspector	modern languages tutor secondary school	0
+air traffic safety technician	air traffic safety technician	1
+air traffic safety technician	air traffic safety electronics hardware specialist	1
+air traffic safety technician	air traffic safety software specialist	1
+air traffic safety technician	tobacco products distribution manager	0
+air traffic safety technician	tobacco products logistics planner	0
+air traffic safety technician	wax bleacher	0
+air traffic safety technician	wax pumper	0
+air traffic safety technician	brigadier	0
+air traffic safety technician	director of staff	0
+air traffic safety technician	coffee, tea, cocoa and spices distribution manager	0
+air traffic safety technician	graduate coffee, tea, cocoa and spices distribution manager	0
+hospitality revenue manager	hospitality revenue manager	1
+hospitality revenue manager	hospitality revenues manager	1
+hospitality revenue manager	yield manager	1
+hospitality revenue manager	cosmologist	0
+hospitality revenue manager	evolutionary cosmologist	0
+hospitality revenue manager	gravure press operator	0
+hospitality revenue manager	gravure printing press tender	0
+hospitality revenue manager	career guidance advisor	0
+hospitality revenue manager	school careers advisor	0
+hospitality revenue manager	real estate leasing manager	0
+hospitality revenue manager	commercial leasing manager	0
+medical laboratory assistant	medical laboratory assistant	1
+medical laboratory assistant	medical laboratory research assistant	1
+medical laboratory assistant	biomedical laboratory assistant	1
+medical laboratory assistant	real estate leasing manager	0
+medical laboratory assistant	commercial leasing manager	0
+medical laboratory assistant	book publisher	0
+medical laboratory assistant	publishing house manager	0
+medical laboratory assistant	dewatering technician	0
+medical laboratory assistant	dewatering operator	0
+medical laboratory assistant	pet and pet food shop manager	0
+medical laboratory assistant	pet food shop manager	0
+asphalt laboratory technician	asphalt laboratory technician	1
+asphalt laboratory technician	road surface technician	1
+asphalt laboratory technician	materials technician	1
+asphalt laboratory technician	motor vehicle engine inspector	0
+asphalt laboratory technician	ict technician	0
+asphalt laboratory technician	ict technicians	0
+asphalt laboratory technician	wholesale merchant in machine tools	0
+asphalt laboratory technician	trainee wholesale merchant in machine tools	0
+asphalt laboratory technician	digital prototyper	0
+asphalt laboratory technician	pattern making machine operator	0
+primary school teaching assistant	primary school teaching assistant	1
+primary school teaching assistant	primary school teaching aide	1
+primary school teaching assistant	teaching assistant in primary schools	1
+primary school teaching assistant	drapery and carpet cleaner	0
+primary school teaching assistant	carpet and drapery cleaner	0
+primary school teaching assistant	street performer	0
+primary school teaching assistant	street theater artist	0
+primary school teaching assistant	private chef	0
+primary school teaching assistant	private cook	0
+primary school teaching assistant	animal embryo transfer technician	0
+primary school teaching assistant	animal embryo transfer scientist	0
+physiotherapist	physiotherapist	1
+physiotherapist	business physiotherapist	1
+physiotherapist	hydrotherapist	1
+physiotherapist	dietitian	0
+physiotherapist	public health nutritionist	0
+physiotherapist	air pollution analyst	0
+physiotherapist	air quality consultant	0
+physiotherapist	social pedagogue	0
+physiotherapist	social pedagogy practitioner	0
+physiotherapist	sewing machine operator	0
+physiotherapist	computer stitcher	0
+performing arts theatre instructor	performing arts theatre instructor	1
+performing arts theatre instructor	acting school teacher	1
+performing arts theatre instructor	conservatory theatre instructor	1
+performing arts theatre instructor	aircraft interior technician	0
+performing arts theatre instructor	aircraft furniture maker	0
+performing arts theatre instructor	veneer grader	0
+performing arts theatre instructor	plywood quality rater	0
+performing arts theatre instructor	fluid power engineer	0
+performing arts theatre instructor	fluid power assembler	0
+performing arts theatre instructor	truck driving instructor	0
+performing arts theatre instructor	lorry driver training instructor	0
+hydrogenation machine operator	hydrogenation machine operator	1
+hydrogenation machine operator	hydrogenation machine operative	1
+hydrogenation machine operator	hydrogenator	1
+hydrogenation machine operator	sport official	0
+hydrogenation machine operator	off-court official	0
+hydrogenation machine operator	fruit and vegetables specialised seller	0
+hydrogenation machine operator	organic fruit and vegetable specialised seller	0
+hydrogenation machine operator	sugar refinery operator	0
+hydrogenation machine operator	sugar production operative	0
+hydrogenation machine operator	business economics researcher	0
+hydrogenation machine operator	business economist	0
+pasta operator	pasta operator	1
+pasta operator	pasta manufacturer	1
+pasta operator	pasta production operator	1
+pasta operator	veneer slicer operator	0
+pasta operator	vaneer slicing machine technician	0
+pasta operator	storyboard artist	0
+pasta operator	storyboard and animatic artist	0
+pasta operator	microsystem engineering technician	0
+pasta operator	microsystem technician	0
+pasta operator	event electrician	0
+pasta operator	mobile power team member	0
+tobacco shop manager	tobacco shop manager	1
+tobacco shop manager	smokers products shop manager	1
+tobacco shop manager	tobacconists shop manager	1
+tobacco shop manager	marine upholsterer	0
+tobacco shop manager	boat upholsterer	0
+tobacco shop manager	paper embosing press operator	0
+tobacco shop manager	paper embossing press tender	0
+tobacco shop manager	construction painting supervisor	0
+tobacco shop manager	commercial decorating supervisor	0
+tobacco shop manager	deck officer	0
+tobacco shop manager	ship first officer	0
+rental service representative in machinery, equipment and tangible goods	rental service representative in machinery, equipment and tangible goods	1
+rental service representative in machinery, equipment and tangible goods	rental sales desk clerk in other machinery, equipment and tangible goods	1
+rental service representative in machinery, equipment and tangible goods	rental sales worker in other machinery, equipment and tangible goods	1
+rental service representative in machinery, equipment and tangible goods	dance therapist	0
+rental service representative in machinery, equipment and tangible goods	movement therapist	0
+rental service representative in machinery, equipment and tangible goods	camping ground manager	0
+rental service representative in machinery, equipment and tangible goods	campgrounds manager	0
+rental service representative in machinery, equipment and tangible goods	pipeline engineer	0
+rental service representative in machinery, equipment and tangible goods	main line station technician	0
+rental service representative in machinery, equipment and tangible goods	glass engraver	0
+rental service representative in machinery, equipment and tangible goods	diamond point glass engraver	0
+mine surveyor	mine surveyor	1
+mine surveyor	planner of mining operations	1
+mine surveyor	mine plan maker	1
+mine surveyor	wholesale merchant in office machinery and equipment	0
+mine surveyor	chemistry technician	0
+mine surveyor	production chemistry technician	0
+mine surveyor	footwear patternmaker	0
+mine surveyor	footwear pattern designer	0
+mine surveyor	production engineering technician	0
+mine surveyor	production engineering instrument mechanic	0
+food safety specialist	food safety specialist	1
+food safety specialist	food production quality controller	1
+food safety specialist	trainee food safety specialist	1
+food safety specialist	water jet cutter operator	0
+food safety specialist	cnc waterjet cutter operator	0
+food safety specialist	foreign exchange cashier	0
+food safety specialist	foreign exchange teller	0
+food safety specialist	materials engineer	0
+food safety specialist	construction materials engineering adviser	0
+food safety specialist	cultural facilities manager	0
+food safety specialist	cultural facilities program coordinator	0
+land-based machinery technician	land-based machinery technician	1
+land-based machinery technician	land-based machinery mechanic	1
+land-based machinery technician	land-based machinery technicians	1
+land-based machinery technician	artillery officer	0
+land-based machinery technician	munitions officer	0
+land-based machinery technician	court jury coordinator	0
+land-based machinery technician	court usher	0
+land-based machinery technician	physical education vocational teacher	0
+land-based machinery technician	teacher of vocational physical education	0
+land-based machinery technician	motorcycle assembler	0
+land-based machinery technician	cycle constructor	0
+bus driver	bus driver	1
+bus driver	intercity bus driver	1
+bus driver	private bus operator	1
+bus driver	sewing machine operator	0
+bus driver	computer stitcher	0
+bus driver	digital games developer	0
+bus driver	video games developer	0
+bus driver	stand-in	0
+bus driver	film stand-in	0
+bus driver	metal sawing machine operator	0
+bus driver	cut-off operative	0
+import export manager in meat and meat products	import export manager in meat and meat products	1
+import export manager in meat and meat products	graduate export manager in meat and meat products	1
+import export manager in meat and meat products	senior export manager in meat and meat products	1
+import export manager in meat and meat products	optomechanical engineer	0
+import export manager in meat and meat products	optomechanical technology engineering specialist	0
+import export manager in meat and meat products	medical goods shop manager	0
+import export manager in meat and meat products	pharmacy manager	0
+import export manager in meat and meat products	aquaculture cage technician	0
+import export manager in meat and meat products	cage technician	0
+import export manager in meat and meat products	sculptor	0
+import export manager in meat and meat products	clay sculptress	0
+housing policy officer	housing policy officer	1
+housing policy officer	policy officer, planning and housing	1
+housing policy officer	housing policy development officer	1
+housing policy officer	road marker	0
+housing policy officer	white line marker	0
+housing policy officer	translator	0
+housing policy officer	post-editor	0
+housing policy officer	fermenter operator	0
+housing policy officer	chemicals fermenter operative	0
+housing policy officer	kitchen porter	0
+housing policy officer	pot and pan washer	0
+head chef	head chef	1
+head chef	industrial head chef	1
+head chef	chef de cuisine	1
+head chef	traditional chinese medicine therapist	0
+head chef	therapist in tcm	0
+head chef	zookeeper	0
+head chef	zoo animal keeper	0
+head chef	wholesale merchant in live animals	0
+head chef	graduate wholesale merchant in live animals	0
+head chef	malt master	0
+head chef	malting expert	0
+nonwoven filament machine operator	nonwoven filament machine operator	1
+nonwoven filament machine operator	non-woven filament machine operator	1
+nonwoven filament machine operator	non-woven yarn worker	1
+nonwoven filament machine operator	leather goods cad patternmaker	0
+nonwoven filament machine operator	leather goods cad modelist	0
+nonwoven filament machine operator	child day care worker	0
+nonwoven filament machine operator	childcarer	0
+nonwoven filament machine operator	translation agency manager	0
+nonwoven filament machine operator	language translation agency manager	0
+nonwoven filament machine operator	blender operator	0
+nonwoven filament machine operator	manufacturers of soft-drinks	0
+head of higher education institutions	head of higher education institutions	1
+head of higher education institutions	university chancellor	1
+head of higher education institutions	rector of higher education	1
+head of higher education institutions	interior landscaper	0
+head of higher education institutions	experts in interior landscaping	0
+head of higher education institutions	casino pit boss	0
+head of higher education institutions	gaming supervisor	0
+head of higher education institutions	police commissioner	0
+head of higher education institutions	police chief	0
+head of higher education institutions	clothing product grader	0
+head of higher education institutions	clothing patternmaker	0
+insulation supervisor	insulation supervisor	1
+insulation supervisor	supervisor of installation of insulating materials	1
+insulation supervisor	supervisor of insulation materials installation	1
+insulation supervisor	rubber goods assembler	0
+insulation supervisor	rubber goods production operative	0
+insulation supervisor	sewerage maintenance technician	0
+insulation supervisor	sewerage investigative cctv operative	0
+insulation supervisor	hospital porter	0
+insulation supervisor	general porter	0
+insulation supervisor	optoelectronic engineering technician	0
+insulation supervisor	opto-electronic technician	0
+dismantling engineer	dismantling engineer	1
+dismantling engineer	disassembly planner	1
+dismantling engineer	dismantling manager	1
+dismantling engineer	human resources manager	0
+dismantling engineer	personnel director	0
+dismantling engineer	palliative care social worker	0
+dismantling engineer	hospice carer	0
+dismantling engineer	upsetting machine operator	0
+dismantling engineer	upsetter apprenticeship	0
+dismantling engineer	fisheries adviser	0
+dismantling engineer	fisheries specialist	0
+insurance claims handler	insurance claims handler	1
+insurance claims handler	claims handler	1
+insurance claims handler	contract claims examiner	1
+insurance claims handler	level crossing signalperson	0
+insurance claims handler	level crossing attendant	0
+insurance claims handler	cytology screener	0
+insurance claims handler	cervical cytology screener	0
+insurance claims handler	bespoke footwear technician	0
+insurance claims handler	custom made footwear technician	0
+insurance claims handler	intelligence officer	0
+insurance claims handler	counter-terrorism analyst	0
+clothing development manager	clothing development manager	1
+clothing development manager	clothing manager	1
+clothing development manager	sample room manager	1
+clothing development manager	religion scientific researcher	0
+clothing development manager	religious studies researcher	0
+clothing development manager	environmental education officer	0
+clothing development manager	environment education trainer	0
+clothing development manager	water network operative	0
+clothing development manager	water network operator	0
+clothing development manager	nanny	0
+clothing development manager	au pair	0
+nitroglycerin separator operator	nitroglycerin separator operator	1
+nitroglycerin separator operator	nitro-separator operator	1
+nitroglycerin separator operator	nitroglycerin separator tender	1
+nitroglycerin separator operator	wash deinking operator	0
+nitroglycerin separator operator	deinking operator	0
+nitroglycerin separator operator	import export specialist in machinery, industrial equipment, ships and aircraft	0
+nitroglycerin separator operator	trainee import export specialist in machinery, industrial equipment, ships and aircraft	0
+nitroglycerin separator operator	press and stationery shop manager	0
+nitroglycerin separator operator	newsagent retail manager	0
+nitroglycerin separator operator	fire safety tester	0
+nitroglycerin separator operator	fire safety testing technologist	0
+biomedical engineer	biomedical engineer	1
+biomedical engineer	bme consultant	1
+biomedical engineer	bio-medical engineer	1
+biomedical engineer	guide	0
+biomedical engineer	tour leader	0
+biomedical engineer	online sales channel manager	0
+biomedical engineer	online sales channel supervisor	0
+biomedical engineer	computer scientist	0
+biomedical engineer	ict researcher	0
+biomedical engineer	animal trainer	0
+biomedical engineer	dog training specialist	0
+legal guardian	legal guardian	1
+legal guardian	court-appointed guardian	1
+legal guardian	welfare guardian	1
+legal guardian	software developer	0
+legal guardian	programmer	0
+legal guardian	pulp grader	0
+legal guardian	pulp and paper grader	0
+legal guardian	aquaculture environmental analyst	0
+legal guardian	aquaculture environmental scientist	0
+legal guardian	timber trader	0
+legal guardian	timber merchant	0
+weaver	weaver	1
+weaver	needle loom operator	1
+weaver	weaving forewoman	1
+weaver	technical sales representative in electronic and telecommunications equipment	0
+weaver	electronic and telecommunications equipment  field saleswoman	0
+weaver	flying director	0
+weaver	flying fx director	0
+weaver	energy engineer	0
+weaver	energy technology engineering consultant	0
+weaver	fisheries deckhand	0
+weaver	fisherman	0
+tile fitter	tile fitter	1
+tile fitter	wall tiler	1
+tile fitter	floor tiler	1
+tile fitter	mechatronics engineer	0
+tile fitter	robotics engineer	0
+tile fitter	sales engineer	0
+tile fitter	pcv sales technician	0
+tile fitter	contact centre manager	0
+tile fitter	customer service manager	0
+tile fitter	youth worker	0
+tile fitter	youth project team leader	0
+shoe and leather accessories shop manager	shoe and leather accessories shop manager	1
+shoe and leather accessories shop manager	footwear store manager	1
+shoe and leather accessories shop manager	cobblers store manager	1
+shoe and leather accessories shop manager	sterile services technician	0
+shoe and leather accessories shop manager	disinfection assistant	0
+shoe and leather accessories shop manager	ict operations manager	0
+shoe and leather accessories shop manager	it process manager	0
+shoe and leather accessories shop manager	library assistant	0
+shoe and leather accessories shop manager	library technician	0
+shoe and leather accessories shop manager	stagehand	0
+shoe and leather accessories shop manager	loader & stage hand	0
+tour operators manager	tour operators manager	1
+tour operators manager	package tour manager	1
+tour operators manager	package tour services manager	1
+tour operators manager	tobacco specialised seller	0
+tour operators manager	cigarette specialised seller	0
+tour operators manager	metal drawing machine operator	0
+tour operators manager	metal drawing machine technician	0
+tour operators manager	plastic heat treatment equipment operator	0
+tour operators manager	heat treating equipment setter	0
+tour operators manager	aesthetician	0
+tour operators manager	facialist	0
+bee breeder	bee breeder	1
+bee breeder	bee breeders	1
+bee breeder	bees breeder	1
+bee breeder	movie distributor	0
+bee breeder	film distribution agent	0
+bee breeder	electromechanical engineering technician	0
+bee breeder	electromechanical engineering specialist	0
+bee breeder	mine safety officer	0
+bee breeder	health and safety manager	0
+bee breeder	community development officer	0
+bee breeder	social development officer	0
+legal administrative assistant	legal administrative assistant	1
+legal administrative assistant	paralegal assistant	1
+legal administrative assistant	certified legal assistant	1
+legal administrative assistant	weaver	0
+legal administrative assistant	needle loom operator	0
+legal administrative assistant	footwear production supervisor	0
+legal administrative assistant	footwear product inspection supervisor	0
+legal administrative assistant	insurance agency manager	0
+legal administrative assistant	insurance institution manager	0
+legal administrative assistant	automated cable vehicle controller	0
+legal administrative assistant	cable propelled vehicle controller	0
+petroleum pump system operator	petroleum pump system operator	1
+petroleum pump system operator	master coffee roaster	0
+petroleum pump system operator	diplomat	0
+petroleum pump system operator	un diplomat	0
+petroleum pump system operator	housing support worker	0
+petroleum pump system operator	housing officer	0
+petroleum pump system operator	construction safety inspector	0
+petroleum pump system operator	safety controller	0
+protective clothing apparel manufacturer	protective clothing apparel manufacturer	1
+protective clothing apparel manufacturer	protective gear manufacturer	1
+protective clothing apparel manufacturer	manufacturer of protective equipment	1
+protective clothing apparel manufacturer	dairy processing technician	0
+protective clothing apparel manufacturer	dairy technician	0
+protective clothing apparel manufacturer	public health policy officer	0
+protective clothing apparel manufacturer	healthcare services planning officer	0
+protective clothing apparel manufacturer	pipe welder	0
+protective clothing apparel manufacturer	pipefitter	0
+protective clothing apparel manufacturer	hand brick moulder	0
+protective clothing apparel manufacturer	tile mould maker	0
+coating machine operator	coating machine operator	1
+coating machine operator	coater operator	1
+coating machine operator	coater technician	1
+coating machine operator	mechanical engineering technician	0
+coating machine operator	engineering technical apprentice	0
+coating machine operator	data centre operator	0
+coating machine operator	data centre operators	0
+coating machine operator	pawnbroker	0
+coating machine operator	deposit lender	0
+coating machine operator	nitroglycerin separator operator	0
+coating machine operator	nitro-separator operator	0
+aquaculture hatchery manager	aquaculture hatchery manager	1
+aquaculture hatchery manager	manager of aquaculture hatchery	1
+aquaculture hatchery manager	aquaculture hatchery supervisor	1
+aquaculture hatchery manager	soap drier operator	0
+aquaculture hatchery manager	flaker operator	0
+aquaculture hatchery manager	environmental technician	0
+aquaculture hatchery manager	environmental conservation technician	0
+aquaculture hatchery manager	leather goods quality manager	0
+aquaculture hatchery manager	leather goods quality control manager	0
+aquaculture hatchery manager	manicurist	0
+aquaculture hatchery manager	nail technician	0
+gear machinist	gear machinist	1
+gear machinist	automotive gearing machinist	1
+gear machinist	mechanical gearing  machinist	1
+gear machinist	dewatering technician	0
+gear machinist	dewatering operator	0
+gear machinist	vineyard machinery operator	0
+gear machinist	farm machinery operator	0
+gear machinist	wholesale merchant in office furniture	0
+gear machinist	photography shop manager	0
+gear machinist	photographic articles shop manager	0
+rooms division manager	rooms division manager	1
+rooms division manager	director of rooms	1
+rooms division manager	front desk manager	1
+rooms division manager	forestry equipment operator	0
+rooms division manager	logger	0
+rooms division manager	aviation meteorologist	0
+rooms division manager	aviation meteorological specialist	0
+rooms division manager	tote operator	0
+rooms division manager	tote technician	0
+rooms division manager	private chauffeur	0
+rooms division manager	personal valet	0
+ceramic painter	ceramic painter	1
+ceramic painter	painter of ceramic articles	1
+ceramic painter	ceramic designer & painter	1
+ceramic painter	wholesale merchant in machine tools	0
+ceramic painter	trainee wholesale merchant in machine tools	0
+ceramic painter	motor vehicles specialised seller	0
+ceramic painter	salesperson motor dealership	0
+ceramic painter	data centre operator	0
+ceramic painter	data centre operators	0
+ceramic painter	leather goods maintenance technician	0
+telecommunications engineer	telecommunications engineer	1
+telecommunications engineer	broadcast engineer	1
+telecommunications engineer	telecommunications designer	1
+telecommunications engineer	footwear production machine operator	0
+telecommunications engineer	footwear production machinist	0
+telecommunications engineer	leather goods manual operator	0
+telecommunications engineer	leather parts manipulator	0
+telecommunications engineer	nonwoven  textile technician	0
+telecommunications engineer	non woven technician	0
+telecommunications engineer	liquor grinding mill operator	0
+adult literacy teacher	adult literacy teacher	1
+adult literacy teacher	instructor in adult literacy and numeracy	1
+adult literacy teacher	teacher of adult literacy and numeracy	1
+adult literacy teacher	book publisher	0
+adult literacy teacher	publishing house manager	0
+adult literacy teacher	diesel engine mechanic	0
+adult literacy teacher	mechanic diesel engine	0
+adult literacy teacher	spinning textile technician	0
+adult literacy teacher	spinning and winding supervisor	0
+adult literacy teacher	automotive engineering technician	0
+adult literacy teacher	bus engineering technician	0
+footwear quality manager	footwear quality manager	1
+footwear quality manager	footwear quality executive	1
+footwear quality manager	footwear quality assurance manager	1
+footwear quality manager	wastewater engineer	0
+footwear quality manager	wastewater technology engineering consultant	0
+footwear quality manager	perfume production machine operator	0
+footwear quality manager	perfume production machine tender	0
+footwear quality manager	precision device inspector	0
+footwear quality manager	inspector of precision instruments	0
+footwear quality manager	medical administrative assistant	0
+footwear quality manager	health services administrative assistant	0
+sprinkler fitter	sprinkler fitter	1
+sprinkler fitter	fire sprinkler fitter	1
+sprinkler fitter	fire safety system fitter	1
+sprinkler fitter	commercial director	0
+sprinkler fitter	commercial marketing specialist	0
+sprinkler fitter	coffee, tea, cocoa and spices distribution manager	0
+sprinkler fitter	graduate coffee, tea, cocoa and spices distribution manager	0
+sprinkler fitter	footwear product development manager	0
+sprinkler fitter	footwear product manager	0
+sprinkler fitter	leather goods cad patternmaker	0
+sprinkler fitter	leather goods cad modelist	0
+electronic and telecommunications equipment and parts distribution manager	electronic and telecommunications equipment and parts distribution manager	1
+electronic and telecommunications equipment and parts distribution manager	electronic and telecommunications equipment and parts distribution planner	1
+electronic and telecommunications equipment and parts distribution manager	electronic and telecommunications equipment and parts supply chain manager	1
+electronic and telecommunications equipment and parts distribution manager	foundry manager	0
+electronic and telecommunications equipment and parts distribution manager	process manager	0
+electronic and telecommunications equipment and parts distribution manager	brick and tile caster	0
+electronic and telecommunications equipment and parts distribution manager	brick and tile making machine operative	0
+electronic and telecommunications equipment and parts distribution manager	video artist	0
+electronic and telecommunications equipment and parts distribution manager	visuals artist	0
+electronic and telecommunications equipment and parts distribution manager	cellar operator	0
+electronic and telecommunications equipment and parts distribution manager	fermentation cellar supervisor	0
+special educational needs teacher secondary school	special educational needs teacher secondary school	1
+special educational needs teacher secondary school	teacher in special educational needs in secondary schools	1
+special educational needs teacher secondary school	high school special education teacher	1
+special educational needs teacher secondary school	ict capacity planner	0
+special educational needs teacher secondary school	it capacity planner	0
+special educational needs teacher secondary school	animal facility manager	0
+special educational needs teacher secondary school	aquarium ceo	0
+special educational needs teacher secondary school	process metallurgist	0
+special educational needs teacher secondary school	process metallurgy research scientist	0
+special educational needs teacher secondary school	corrugator operator	0
+special educational needs teacher secondary school	corrugator specialist	0
+performance production manager	performance production manager	1
+performance production manager	live event production manager	1
+performance production manager	theatre production manager	1
+performance production manager	milling machine operator	0
+performance production manager	numerical controlled lathe technician	0
+performance production manager	psychologist	0
+performance production manager	expert counselling psychologist	0
+performance production manager	glass painter	0
+performance production manager	painter on glass	0
+performance production manager	welder	0
+performance production manager	maintenance welder	0
+metal production manager	metal production manager	1
+metal production manager	metal development managers	1
+metal production manager	operations manager	1
+metal production manager	software architect	0
+metal production manager	software architects	0
+metal production manager	tote operator	0
+metal production manager	tote technician	0
+metal production manager	investment clerk	0
+metal production manager	investment administrator	0
+metal production manager	pharmaceutical quality specialist	0
+metal production manager	pharmaceutical quality technician	0
+aircraft engine assembler	aircraft engine assembler	1
+aircraft engine assembler	light aircraft engine assembler	1
+aircraft engine assembler	piston aircraft engine assembler	1
+aircraft engine assembler	beauty vocational teacher	0
+aircraft engine assembler	cosmetology vocational teacher	0
+aircraft engine assembler	goldsmith	0
+aircraft engine assembler	goldsmiths	0
+aircraft engine assembler	rental service representative in machinery, equipment and tangible goods	0
+aircraft engine assembler	rental sales desk clerk in other machinery, equipment and tangible goods	0
+aircraft engine assembler	import export manager in mining, construction and civil engineering machinery	0
+aircraft engine assembler	international trade manager in mining, construction and civil engineering machinery	0
+quarry engineer	quarry engineer	1
+quarry engineer	drilling & blasting engineer	1
+quarry engineer	mine engineer	1
+quarry engineer	rental service representative in recreational and sports goods	0
+quarry engineer	rental service worker in recreational and sports goods	0
+quarry engineer	data entry supervisor	0
+quarry engineer	data processing coordinator	0
+quarry engineer	child care social worker	0
+quarry engineer	social worker (child protection)	0
+quarry engineer	horticulture production team leader	0
+quarry engineer	horticultural foreman	0
+audiology equipment shop manager	audiology equipment shop manager	1
+audiology equipment shop manager	audiology shop manager	1
+audiology equipment shop manager	hearing aid shop manager	1
+audiology equipment shop manager	import export specialist in office furniture	0
+audiology equipment shop manager	customs compliance specialist in office furniture	0
+audiology equipment shop manager	steam engineer	0
+audiology equipment shop manager	steam engineering adviser	0
+audiology equipment shop manager	fertiliser mixer	0
+audiology equipment shop manager	fertiliser mixing machine operator	0
+audiology equipment shop manager	vineyard worker	0
+audiology equipment shop manager	grape harvester	0
+hardware and paint specialised seller	hardware and paint specialised seller	1
+hardware and paint specialised seller	hardware, paint and glass specialised seller	1
+hardware and paint specialised seller	hardware and paint diy specialised seller	1
+hardware and paint specialised seller	street artist	0
+hardware and paint specialised seller	muralist	0
+hardware and paint specialised seller	financial controller	0
+hardware and paint specialised seller	corporate controller	0
+hardware and paint specialised seller	au pair	0
+hardware and paint specialised seller	baby sitter	0
+hardware and paint specialised seller	ict network administrator	0
+hardware and paint specialised seller	network manager	0
+primary school teacher	primary school teacher	1
+primary school teacher	primary school music teacher	1
+primary school teacher	primary school educator	1
+primary school teacher	jewellery assembler	0
+primary school teacher	jewelry craftsperson	0
+primary school teacher	industrial tool design engineer	0
+primary school teacher	industrial tool engineering specialist	0
+primary school teacher	leather goods cad patternmaker	0
+primary school teacher	leather goods cad modelist	0
+primary school teacher	ict account manager	0
+primary school teacher	it account manager	0
+tram driver	tram driver	1
+tram driver	light rail vehicle driver	1
+tram driver	light rail train driver	1
+tram driver	industrial robot controller	0
+tram driver	industrial robot operative	0
+tram driver	light board operator	0
+tram driver	lighting board programmer & operator	0
+tram driver	official veterinarian	0
+tram driver	official vet	0
+tram driver	water-based aquaculture technician	0
+tram driver	water-based fish farm technician	0
+container equipment assembly supervisor	container equipment assembly supervisor	1
+container equipment assembly supervisor	container equipment sub assembler supervisor	1
+container equipment assembly supervisor	container equipment assembly line senior operative	1
+container equipment assembly supervisor	office equipment repair technician	0
+container equipment assembly supervisor	office service technician	0
+container equipment assembly supervisor	medicine lecturer	0
+container equipment assembly supervisor	clinical lecturer	0
+container equipment assembly supervisor	marine engineer	0
+container equipment assembly supervisor	marine engineering specialist	0
+container equipment assembly supervisor	minister of religion	0
+container equipment assembly supervisor	nun	0
+warehouse operator for clothing	warehouse operator for clothing	1
+warehouse operator for clothing	clothing warehouse representatives	1
+warehouse operator for clothing	warehouse person for clothing	1
+warehouse operator for clothing	bicycle assembler	0
+warehouse operator for clothing	road bike maker	0
+warehouse operator for clothing	frame maker	0
+warehouse operator for clothing	frames builder	0
+warehouse operator for clothing	special effects artist	0
+warehouse operator for clothing	special effect image designer	0
+warehouse operator for clothing	instrumentation engineering technician	0
+warehouse operator for clothing	control and instrumentation technologist	0
+administrative assistant	administrative assistant	1
+administrative assistant	communications assistant	1
+administrative assistant	administrative office assistant	1
+administrative assistant	tram driver	0
+administrative assistant	light rail vehicle driver	0
+administrative assistant	philosopher	0
+administrative assistant	moralist	0
+administrative assistant	building construction worker	0
+administrative assistant	construction site worker	0
+administrative assistant	early years teaching assistant	0
+administrative assistant	assistant in early years education	0
+coffee grinder	coffee grinder	1
+coffee grinder	grinding machine attendant	1
+coffee grinder	grinder operator	1
+coffee grinder	therapeutic radiographer	0
+coffee grinder	practitioner of therapeutic radiography	0
+coffee grinder	investment analyst	0
+coffee grinder	investment operations analyst	0
+coffee grinder	insulating tube winder	0
+coffee grinder	hand winder, insulating tubes	0
+coffee grinder	energy consultant	0
+coffee grinder	energy saving consultant	0
+medical administrative assistant	medical administrative assistant	1
+medical administrative assistant	health services administrative assistant	1
+medical administrative assistant	medical institution administrative assistant	1
+medical administrative assistant	cabin crew manager	0
+medical administrative assistant	chief purser	0
+medical administrative assistant	aquaculture rearing technician	0
+medical administrative assistant	technician in aquaculture rearing	0
+medical administrative assistant	footwear hand sewer	0
+medical administrative assistant	mocassin sewer	0
+medical administrative assistant	lexicographer	0
+medical administrative assistant	bilingual dictionary editor	0
+ICT security administrator	ict security administrator	1
+ICT security administrator	system security administrator	1
+ICT security administrator	network security administrator	1
+ICT security administrator	warfare specialist	0
+ICT security administrator	electronic warfare operator	0
+ICT security administrator	leather goods quality technician	0
+ICT security administrator	leather goods quality technologist	0
+ICT security administrator	carbonation operator	0
+ICT security administrator	sparkling machine operator	0
+ICT security administrator	healthcare inspector	0
+ICT security administrator	healthcare facilities inspector	0
+bricklaying supervisor	bricklaying supervisor	1
+bricklaying supervisor	bricklayer supervisor	1
+bricklaying supervisor	bricksetter supervisor	1
+bricklaying supervisor	user interface designer	0
+bricklaying supervisor	ui designer	0
+bricklaying supervisor	delicatessen shop manager	0
+bricklaying supervisor	delicatessen counter manager	0
+bricklaying supervisor	optoelectronic engineering technician	0
+bricklaying supervisor	opto-electronic technician	0
+bricklaying supervisor	automotive battery technician	0
+bricklaying supervisor	automotive battery tester	0
+slate mixer	slate mixer	1
+slate mixer	slate mixing machine operator	1
+slate mixer	slate mixing machine operative	1
+slate mixer	energy systems engineer	0
+slate mixer	energy conservation engineer	0
+slate mixer	waiter/waitress	0
+slate mixer	waiting staff	0
+slate mixer	shoe and leather accessories specialised seller	0
+slate mixer	leather accessories salesperson	0
+slate mixer	computers, computer peripheral equipment and software distribution manager	0
+slate mixer	computers, computer peripheral equipment and software supply chain manager	0
+marine engineering technician	marine engineering technician	1
+marine engineering technician	yacht  engineering technician	1
+marine engineering technician	marine technologist	1
+marine engineering technician	tool pusher	0
+marine engineering technician	toolpushers	0
+marine engineering technician	mastering engineer	0
+marine engineering technician	mastering technician	0
+marine engineering technician	commissioning technician	0
+marine engineering technician	chilling operator	0
+marine engineering technician	prepared meals operator	0
+auction house manager	auction house manager	1
+auction house manager	auctioneer	1
+auction house manager	valuer	1
+auction house manager	waste management supervisor	0
+auction house manager	tumbling machine operator	0
+auction house manager	tub washer	0
+auction house manager	telecommunications engineer	0
+auction house manager	broadcast engineer	0
+auction house manager	civil registrar	0
+auction house manager	senior registrar	0
+software analyst	software analyst	1
+software analyst	programming analyst	1
+software analyst	software requirement analyst	1
+software analyst	economic policy officer	0
+software analyst	policy officer for economy	0
+software analyst	fruit and vegetables specialised seller	0
+software analyst	organic fruit and vegetable specialised seller	0
+software analyst	exhibition curator	0
+software analyst	art gallery curator	0
+software analyst	intelligent lighting engineer	0
+software analyst	intelligent lighting technician	0
+accounting manager	accounting manager	1
+accounting manager	accounting office manager	1
+accounting manager	financial director	1
+accounting manager	technical sales representative in office machinery and equipment	0
+accounting manager	office machinery and equipment outside technical sales representative	0
+accounting manager	outdoor activities instructor	0
+accounting manager	outdoor pursuits group leader	0
+accounting manager	water treatment systems operator	0
+accounting manager	water quality tester	0
+accounting manager	head of workshop	0
+accounting manager	deputy workshop manager	0
+foundry manager	foundry manager	1
+foundry manager	process manager	1
+foundry manager	foundry production manager	1
+foundry manager	computer hardware repair technician	0
+foundry manager	computer service agent	0
+foundry manager	door supervisor	0
+foundry manager	nightclub doorman	0
+foundry manager	fish preparation operator	0
+foundry manager	seafood preparation operator	0
+foundry manager	benefits advice worker	0
+foundry manager	advice worker, benefits	0
+telecommunications technician	telecommunications technician	1
+telecommunications technician	telecommunications systems technician	1
+telecommunications technician	telecoms technician	1
+telecommunications technician	costume maker	0
+telecommunications technician	costumer	0
+telecommunications technician	creative director	0
+telecommunications technician	advertising director	0
+telecommunications technician	brew house operator	0
+telecommunications technician	brewing operator	0
+telecommunications technician	sewerage cleaner	0
+promotions demonstrator	promotions demonstrator	1
+promotions demonstrator	filling station sales demonstrator	1
+promotions demonstrator	senior sales demonstrator	1
+promotions demonstrator	recreation policy officer	0
+promotions demonstrator	sports and recreation policy advisor	0
+promotions demonstrator	medical records manager	0
+promotions demonstrator	supervisor of medical records	0
+promotions demonstrator	precast moulder	0
+promotions demonstrator	hand tile-moulder	0
+promotions demonstrator	mergers and acquisitions analyst	0
+promotions demonstrator	acquisition manager	0
+maritime instructor	maritime instructor	1
+maritime instructor	boating instructor	1
+maritime instructor	ship pilot trainer	1
+maritime instructor	motor vehicle shop manager	0
+maritime instructor	sales manager motor trade	0
+maritime instructor	engineering assistant	0
+maritime instructor	technical support worker	0
+maritime instructor	gas distribution engineer	0
+maritime instructor	gas distribution process engineer	0
+maritime instructor	cocoa mill operator	0
+maritime instructor	cocoa mill worker	0
+foreign exchange trader	foreign exchange trader	1
+foreign exchange trader	foreign exchange handler	1
+foreign exchange trader	foreign exchange dealers	1
+foreign exchange trader	tram driver	0
+foreign exchange trader	light rail vehicle driver	0
+foreign exchange trader	technical sales representative in machinery and industrial equipment	0
+foreign exchange trader	technical salespeople in industrial equipment	0
+foreign exchange trader	prepared meals nutritionist	0
+foreign exchange trader	medical practice manager	0
+foreign exchange trader	medical practice supervisor	0
+aerospace engineering technician	aerospace engineering technician	1
+aerospace engineering technician	aeronautics engineering technician	1
+aerospace engineering technician	aero spatial technologist	1
+aerospace engineering technician	marine engineer	0
+aerospace engineering technician	marine engineering specialist	0
+aerospace engineering technician	public speaking coach	0
+aerospace engineering technician	public speaking mentor	0
+aerospace engineering technician	surface mine plant operator	0
+aerospace engineering technician	quarry earth moving equipment operative	0
+aerospace engineering technician	aquaculture rearing technician	0
+aerospace engineering technician	technician in aquaculture rearing	0
+table saw operator	table saw operator	1
+table saw operator	table saw machine operator	1
+table saw operator	cut-off saw operator	1
+table saw operator	food grader	0
+table saw operator	food product grader	0
+table saw operator	building materials specialised seller	0
+table saw operator	building materials salesperson	0
+table saw operator	ornamental metal worker	0
+table saw operator	welder fabricator installer	0
+table saw operator	crowd controller	0
+table saw operator	steward	0
+bridge construction supervisor	bridge construction supervisor	1
+bridge construction supervisor	bridge construction site supervisor	1
+bridge construction supervisor	bridgebuilding supervisor	1
+bridge construction supervisor	furniture shop manager	0
+bridge construction supervisor	outdoor furniture shop manager	0
+bridge construction supervisor	import export specialist in wood and construction materials	0
+bridge construction supervisor	graduate export specialist in wood and construction materials	0
+bridge construction supervisor	nonwoven staple machine operator	0
+bridge construction supervisor	non-woven staple machinist	0
+bridge construction supervisor	liquor grinding mill operator	0
+bricklayer	bricklayer	1
+bricklayer	specialist brick layer	1
+bricklayer	brick laying labourer	1
+bricklayer	cider fermentation operator	0
+bricklayer	cider products fermenter	0
+bricklayer	membership manager	0
+bricklayer	membership sales manager	0
+bricklayer	import export manager in sugar, chocolate and sugar confectionery	0
+bricklayer	graduate import manager in sugar, chocolate and sugar confectionery	0
+bricklayer	social security inspector	0
+bricklayer	single fraud investigation service officer	0
+meat cutter	meat cutter	1
+meat cutter	trimmer	1
+meat cutter	meat trimmers	1
+meat cutter	aerodynamics engineer	0
+meat cutter	aerodynamic engineering consultant	0
+meat cutter	meat and meat products specialised seller	0
+meat cutter	meat counter specialised seller	0
+meat cutter	corporate training manager	0
+meat cutter	learning programmes manager	0
+meat cutter	second-hand shop manager	0
+meat cutter	charity store manager	0
+criminologist	criminologist	1
+criminologist	criminology science researcher	1
+criminologist	criminology studies scholar	1
+criminologist	drugstore manager	0
+criminologist	drugstore counter manager	0
+criminologist	textile designer	0
+criminologist	print designer	0
+criminologist	import export specialist in fruit and vegetables	0
+criminologist	assistant import export specialist in fruit and vegetables	0
+criminologist	monk/nun	0
+criminologist	nun	0
+video operator	video operator	1
+video operator	visual and graphic operator	1
+video operator	projection operator	1
+video operator	pharmaceutical engineer	0
+video operator	pharmaceutical research engineer	0
+video operator	wood caulker	0
+video operator	wooden hull caulker	0
+video operator	social care worker	0
+video operator	care worker	0
+video operator	kitchen unit installer	0
+video operator	kitchen joiner and fitter	0
+fish and seafood specialised seller	fish and seafood specialised seller	1
+fish and seafood specialised seller	fresh fish salesperson	1
+fish and seafood specialised seller	fish market salesperson	1
+fish and seafood specialised seller	motorcycle delivery person	0
+fish and seafood specialised seller	timed delivery motorcycle driver	0
+fish and seafood specialised seller	cosmetic chemist	0
+fish and seafood specialised seller	formulation development chemist	0
+fish and seafood specialised seller	sophrologist	0
+fish and seafood specialised seller	sophrology practitioner	0
+fish and seafood specialised seller	visual merchandiser	0
+fish and seafood specialised seller	visual merchandising supervisor	0
+oil and gas production manager	oil and gas production manager	1
+oil and gas production manager	oil production manager	1
+oil and gas production manager	oilfield production manager	1
+oil and gas production manager	dance répétiteur	0
+oil and gas production manager	assistant choreographer	0
+oil and gas production manager	veterinary receptionist	0
+oil and gas production manager	veterinary receptionists	0
+oil and gas production manager	producer	0
+oil and gas production manager	tour production manager	0
+oil and gas production manager	ict application developer	0
+oil and gas production manager	application software developers	0
+metallurgical technician	metallurgical technician	1
+metallurgical technician	metallurgy test technician	1
+metallurgical technician	mining technician	1
+metallurgical technician	harp maker	0
+metallurgical technician	celtic harp builder	0
+metallurgical technician	real estate leasing manager	0
+metallurgical technician	commercial leasing manager	0
+metallurgical technician	industrial maintenance supervisor	0
+metallurgical technician	maintenance machining and assembly supervisor	0
+metallurgical technician	construction scaffolding supervisor	0
+metallurgical technician	scaffold erection foreman	0
+spinning textile technician	spinning textile technician	1
+spinning textile technician	spinning and winding supervisor	1
+spinning textile technician	textile technician for spinning	1
+spinning textile technician	drainage engineer	0
+spinning textile technician	drainage engineering adviser	0
+spinning textile technician	photojournalist	0
+spinning textile technician	visual journalist	0
+spinning textile technician	granulator machine operator	0
+spinning textile technician	pharmaceutical granulating machine operator	0
+spinning textile technician	hospital social worker	0
+spinning textile technician	public health social worker	0
+resilient floor layer	resilient floor layer	1
+resilient floor layer	vinyl floor installer	1
+resilient floor layer	layer of resilient floor	1
+resilient floor layer	hot foil operator	0
+resilient floor layer	hot press technician	0
+resilient floor layer	analytical chemist	0
+resilient floor layer	analytical chemistry analyst	0
+resilient floor layer	scrap metal operative	0
+resilient floor layer	metal shredder operator	0
+resilient floor layer	publications coordinator	0
+resilient floor layer	head of publications	0
+textile quality technician	textile quality technician	1
+textile quality technician	textile texting technician	1
+textile quality technician	textile quality laboratory analyst	1
+textile quality technician	street lighting electrician	0
+textile quality technician	highway lights operative	0
+textile quality technician	supply chain assistant	0
+textile quality technician	supply chain logistics assistant	0
+textile quality technician	ship assistant engineer	0
+textile quality technician	junior ship engineer	0
+textile quality technician	aircraft maintenance engineer	0
+textile quality technician	air transportation engineer	0
+curing room worker	curing room worker	1
+curing room worker	tobacco curing room workers	1
+curing room worker	tobacco drying machine operator	1
+curing room worker	game keeper	0
+curing room worker	estate supervisor	0
+curing room worker	product manager	0
+curing room worker	product development manager	0
+curing room worker	deck officer	0
+curing room worker	ship first officer	0
+curing room worker	humanitarian advisor	0
+curing room worker	non governmental organisation officer	0
+enameller	enameller	1
+enameller	metal enameller	1
+enameller	platinum enameller	1
+enameller	kiln firer	0
+enameller	decorating-kiln firer	0
+enameller	block machine operator	0
+enameller	block-making machine operator	0
+enameller	production plant crane operator	0
+enameller	tower crane technicians	0
+enameller	ethical hacker	0
+enameller	system security tester	0
+recruitment consultant	recruitment consultant	1
+recruitment consultant	job placement officer	1
+recruitment consultant	employee recruiter	1
+recruitment consultant	production engineer	0
+recruitment consultant	production engineering expert	0
+recruitment consultant	social counsellor	0
+recruitment consultant	rehabilitation support counsellor	0
+recruitment consultant	kennel worker	0
+recruitment consultant	pet caretaker	0
+recruitment consultant	medical records manager	0
+recruitment consultant	supervisor of medical records	0
+actuarial consultant	actuarial consultant	1
+actuarial consultant	actuaries	1
+actuarial consultant	actuarial analyst	1
+actuarial consultant	grinding machine operator	0
+actuarial consultant	grinding machine worker	0
+actuarial consultant	ict security administrator	0
+actuarial consultant	system security administrator	0
+actuarial consultant	blogger	0
+actuarial consultant	on-line content writer	0
+actuarial consultant	emergency response coordinator	0
+actuarial consultant	emergency coordinator	0
+lighting designer	lighting designer	1
+lighting designer	lighting technician and designer	1
+lighting designer	lighting designer & technician	1
+lighting designer	financial controller	0
+lighting designer	corporate controller	0
+lighting designer	aquaculture harvesting technician	0
+lighting designer	aquaculture harvesting inspector	0
+lighting designer	rolling stock inspector	0
+lighting designer	railway carriage and wagon supervisor	0
+lighting designer	textile chemical quality technician	0
+lighting designer	textile chemical quality analyst	0
+dance répétiteur	dance répétiteur	1
+dance répétiteur	assistant choreographer	1
+dance répétiteur	assistant choreographer and repetiteur	1
+dance répétiteur	spot welder	0
+dance répétiteur	robotic welder	0
+dance répétiteur	fish, crustaceans and molluscs distribution manager	0
+dance répétiteur	fish, crustaceans and molluscs supply chain planner	0
+dance répétiteur	cabinet maker	0
+dance répétiteur	maker of kitchen cabinets	0
+dance répétiteur	it auditor	0
+dance répétiteur	it quality appraiser	0
+automotive battery technician	automotive battery technician	1
+automotive battery technician	automotive battery tester	1
+automotive battery technician	battery installer	1
+automotive battery technician	groundsman/groundswoman	0
+automotive battery technician	groundskeeping worker	0
+automotive battery technician	pulp grader	0
+automotive battery technician	pulp and paper grader	0
+automotive battery technician	railway car upholsterer	0
+automotive battery technician	train coach upholsterer	0
+automotive battery technician	glass installation supervisor	0
+automotive battery technician	window installation supervisor	0
+footwear designer	footwear designer	1
+footwear designer	shoe designer	1
+footwear designer	footwear cad designer	1
+footwear designer	data quality specialist	0
+footwear designer	data quality specialists	0
+footwear designer	chemical tester	0
+footwear designer	roofer	0
+footwear designer	tinsmith	0
+footwear designer	water conservation technician supervisor	0
+footwear designer	water recovery systems installation supervisor	0
+public employment service manager	public employment service manager	1
+public employment service manager	jobcentre manager	1
+public employment service manager	jobcentre plus manager	1
+public employment service manager	test engineer	0
+public employment service manager	agricultural equipment test engineer	0
+public employment service manager	digital games developer	0
+public employment service manager	video games developer	0
+public employment service manager	nursery school head teacher	0
+public employment service manager	kindergarten director	0
+public employment service manager	digital games tester	0
+public employment service manager	digital games testers	0
+clothing product grader	clothing product grader	1
+clothing product grader	clothing patternmaker	1
+clothing product grader	pattern developer/grader	1
+clothing product grader	specialised veterinarian	0
+clothing product grader	porcine health management veterinarian	0
+clothing product grader	sculptor	0
+clothing product grader	clay sculptress	0
+clothing product grader	sign maker	0
+clothing product grader	traffic sign maker	0
+clothing product grader	wood drying kiln operator	0
+clothing product grader	dry kiln technician	0
+public administration manager	public administration manager	1
+public administration manager	public administration director	1
+public administration manager	public institution director	1
+public administration manager	road operations manager	0
+public administration manager	road operations supervisor	0
+public administration manager	fire inspector	0
+public administration manager	fire prevention officer	0
+public administration manager	electrical equipment inspector	0
+public administration manager	electrical appliance inspector	0
+public administration manager	telecommunication equipment shop manager	0
+public administration manager	phone store manager	0
+credit analyst	credit analyst	1
+credit analyst	credit clerk	1
+credit analyst	analyst of credits	1
+credit analyst	textile pattern making machine operator	0
+credit analyst	textile pattern machine operator	0
+credit analyst	aviation safety officer	0
+credit analyst	aviation security officer	0
+credit analyst	cylindrical grinder operator	0
+credit analyst	disc grinder	0
+credit analyst	green coffee coordinator	0
+credit analyst	coffee coordinator	0
+plumbing supervisor	plumbing supervisor	1
+plumbing supervisor	commercial plumbing supervisor	1
+plumbing supervisor	supervising plumber	1
+plumbing supervisor	photonics engineering technician	0
+plumbing supervisor	optical systems technologist	0
+plumbing supervisor	robotics engineer	0
+plumbing supervisor	robotic engineer	0
+plumbing supervisor	audiologist	0
+plumbing supervisor	paediatric audiologist	0
+plumbing supervisor	event scaffolder	0
+plumbing supervisor	scaffolding team member	0
+securities analyst	securities analyst	1
+securities analyst	securities research director	1
+securities analyst	shares analyst	1
+securities analyst	football coach	0
+securities analyst	football trainer	0
+securities analyst	political affairs officer	0
+securities analyst	prime minister adviser	0
+securities analyst	3d animator	0
+securities analyst	3d animators	0
+securities analyst	military engineer	0
+securities analyst	defence technology engineering adviser	0
+dancer	dancer	1
+dancer	dance artist	1
+dancer	show dancer	1
+dancer	electric power generation engineer	0
+dancer	power station engineer	0
+dancer	chemical mixer	0
+dancer	chemical mixer worker	0
+dancer	embedded system designer	0
+dancer	embedded system developer	0
+dancer	ticket issuing clerk	0
+dancer	museum ticket selling agent	0
+bespoke footwear technician	bespoke footwear technician	1
+bespoke footwear technician	custom made footwear technician	1
+bespoke footwear technician	custom shoemaker	1
+bespoke footwear technician	survey enumerator	0
+bespoke footwear technician	commercial census taker	0
+bespoke footwear technician	import export manager in china and other glassware	0
+bespoke footwear technician	international trade manager in china and glassware	0
+bespoke footwear technician	chief data officer	0
+bespoke footwear technician	chief analytics officer	0
+bespoke footwear technician	metrology technician	0
+bespoke footwear technician	color scientist	0
+judge	judge	1
+judge	investigating magistrate	1
+judge	deputy circuit judge	1
+judge	furniture assembler	0
+judge	furniture assembly technician	0
+judge	pyrotechnician	0
+judge	pyrotechnics specialist	0
+judge	agricultural equipment design engineer	0
+judge	agricultural equipment engineering consultant	0
+judge	cloak room attendant	0
+judge	coatroom assistant	0
+puppet designer	puppet designer	1
+puppet designer	puppet designer & builder	1
+puppet designer	puppet designer and builder	1
+puppet designer	tourist information centre manager	0
+puppet designer	tourist information centre (tic) manager	0
+puppet designer	fluid power engineer	0
+puppet designer	fluid power assembler	0
+puppet designer	costume maker	0
+puppet designer	costumer	0
+puppet designer	front line medical receptionist	0
+puppet designer	front desk assistant	0
+flexographic press operator	flexographic press operator	1
+flexographic press operator	flexographic printer	1
+flexographic press operator	flexographic printing press operator	1
+flexographic press operator	container equipment assembly supervisor	0
+flexographic press operator	container equipment sub assembler supervisor	0
+flexographic press operator	wind musical instrument maker	0
+flexographic press operator	brass instrument assembler	0
+flexographic press operator	database integrator	0
+flexographic press operator	data integrator	0
+flexographic press operator	chief technology officer	0
+flexographic press operator	it director	0
+integration engineer	integration engineer	1
+integration engineer	software integration engineer	1
+integration engineer	ict integration engineers	1
+integration engineer	gas transmission system operator	0
+integration engineer	gas transmission system operative	0
+integration engineer	health and safety inspector	0
+integration engineer	inspector of health and safety	0
+integration engineer	railway passenger service agent	0
+integration engineer	railway transportation service representative	0
+integration engineer	hair stylist	0
+integration engineer	hair artist	0
+weather forecaster	weather forecaster	1
+weather forecaster	weather forecast anchor	1
+weather forecaster	meteorology science researcher	1
+weather forecaster	agricultural technician	0
+weather forecaster	assistant in agricultural research	0
+weather forecaster	import export manager in fish, crustaceans and molluscs	0
+weather forecaster	senior export manager in fish, crustaceans and molluscs	0
+weather forecaster	social work practice educator	0
+weather forecaster	practice social work educator	0
+weather forecaster	bus driving instructor	0
+weather forecaster	bus driver training  instructor	0
+street artist	street artist	1
+street artist	muralist	1
+street artist	street caricaturist	1
+street artist	meat preparations operator	0
+street artist	meatworker	0
+street artist	building construction worker	0
+street artist	construction site worker	0
+street artist	academic advisor	0
+street artist	degree program guidance practitioner	0
+street artist	sound editor	0
+street artist	dialogue editor	0
+spa manager	spa manager	1
+spa manager	wellness manager	1
+spa manager	spa and wellness manager	1
+spa manager	liquid waste treatment plant operator	0
+spa manager	liquid waster remediation worker	0
+spa manager	airport planning engineer	0
+spa manager	aviation development planner	0
+spa manager	sensory scientist	0
+spa manager	sensory and consumer research scientist	0
+spa manager	architect	0
+spa manager	building designer	0
+professional athlete	professional athlete	1
+professional athlete	athlete	1
+professional athlete	pole vault athlete	1
+professional athlete	upholsterer	0
+professional athlete	craft upholsterer	0
+professional athlete	motor vehicle parts assembler	0
+professional athlete	motor vehicle parts tester	0
+professional athlete	laundry worker	0
+professional athlete	dry cleaning worker	0
+professional athlete	music instructor	0
+professional athlete	music school instructor	0
+specialised veterinarian	specialised veterinarian	1
+specialised veterinarian	porcine health management veterinarian	1
+specialised veterinarian	wildlife health management veterinarian	1
+specialised veterinarian	radio producer	0
+specialised veterinarian	radio broadcast producer	0
+specialised veterinarian	residential care home worker	0
+specialised veterinarian	care home manager	0
+specialised veterinarian	construction manager	0
+specialised veterinarian	construction cost consultant	0
+specialised veterinarian	contact centre supervisor	0
+specialised veterinarian	customer service supervisor	0
+automated fly bar operator	automated fly bar operator	1
+automated fly bar operator	automation operator & programmer	1
+automated fly bar operator	lead automation operator	1
+automated fly bar operator	corporate social responsibility manager	0
+automated fly bar operator	sustainable services manager	0
+automated fly bar operator	spot welder	0
+automated fly bar operator	robotic welder	0
+automated fly bar operator	traditional chinese medicine therapist	0
+automated fly bar operator	therapist in tcm	0
+automated fly bar operator	wholesale merchant in office machinery and equipment	0
+commissioning technician	commissioning technician	1
+commissioning technician	screen printer	0
+commissioning technician	silk-screen printing machine oeprator	0
+commissioning technician	religious education teacher secondary school	0
+commissioning technician	religious education teacher	0
+commissioning technician	financial analyst	0
+commissioning technician	company analyst	0
+commissioning technician	surface grinding machine operator	0
+commissioning technician	back grinding machine operator	0
+branch manager	branch manager	1
+branch manager	regional director	1
+branch manager	branch supervisor	1
+branch manager	import export manager in office machinery and equipment	0
+branch manager	international trade compliance manager in office machinery and equipment	0
+branch manager	tourist information officer	0
+branch manager	tourist point information officer	0
+branch manager	translation agency manager	0
+branch manager	language translation agency manager	0
+branch manager	copy editor	0
+branch manager	language editor	0
+search engine optimisation expert	search engine optimisation expert	1
+search engine optimisation expert	search engine optimisation specialist	1
+search engine optimisation expert	search engine optimiser	1
+search engine optimisation expert	crop production manager	0
+search engine optimisation expert	crop producer	0
+search engine optimisation expert	body artist	0
+search engine optimisation expert	tattoo studio assistant	0
+search engine optimisation expert	perfume and cosmetics distribution manager	0
+search engine optimisation expert	graduate perfume and cosmetics distribution manager	0
+search engine optimisation expert	hospital social worker	0
+search engine optimisation expert	public health social worker	0
+water network operative	water network operative	1
+water network operative	water network operator	1
+water network operative	water supply network operative	1
+water network operative	escort	0
+water network operative	male prostitute	0
+water network operative	public housing manager	0
+water network operative	housing authority manager	0
+water network operative	kosher slaughterer	0
+water network operative	kosher slaughterperson	0
+water network operative	bicycle courier	0
+water network operative	bike courier	0
+green coffee buyer	green coffee buyer	1
+green coffee buyer	green coffee acquisition specialist	1
+green coffee buyer	green coffee purchaser	1
+green coffee buyer	tufting operator	0
+green coffee buyer	yardage-tufting machine operator	0
+green coffee buyer	call centre supervisor	0
+green coffee buyer	contact centre manager	0
+green coffee buyer	receptionist	0
+green coffee buyer	receiving clerk	0
+green coffee buyer	leather goods product development manager	0
+green coffee buyer	product development director leather goods	0
+economics lecturer	economics lecturer	1
+economics lecturer	economics teacher	1
+economics lecturer	university economics lecturer	1
+economics lecturer	audiology technician	0
+economics lecturer	audiology specialist service technician	0
+economics lecturer	aircraft gas turbine engine overhaul technician	0
+economics lecturer	aircraft gas turbine engine installation technician	0
+economics lecturer	import export specialist in computers, peripheral equipment and software	0
+economics lecturer	senior import specialist in computers, peripheral equipment and software	0
+economics lecturer	shunter	0
+economics lecturer	shunter attendant	0
+motor vehicles parts advisor	motor vehicles parts advisor	1
+motor vehicles parts advisor	light vehicle parts operative	1
+motor vehicles parts advisor	lgv parts operative	1
+motor vehicles parts advisor	data centre operator	0
+motor vehicles parts advisor	data centre operators	0
+motor vehicles parts advisor	computer-aided design operator	0
+motor vehicles parts advisor	cam drafter	0
+motor vehicles parts advisor	hair removal technician	0
+motor vehicles parts advisor	depilation specialist	0
+motor vehicles parts advisor	import export specialist in metals and metal ores	0
+motor vehicles parts advisor	assistant export specialist in metals and metal ores	0
+hairdresser	hairdresser	1
+hairdresser	hair cutter	1
+hairdresser	scalp treatment specialist	1
+hairdresser	cartoonist	0
+hairdresser	political cartoonist	0
+hairdresser	optical instrument assembler	0
+hairdresser	optical equipment fabricator	0
+hairdresser	wholesale merchant in watches and jewellery	0
+hairdresser	wholesale trader in watches and jewellery	0
+hairdresser	arts education officer	0
+hairdresser	art mediator	0
+art restorer	art restorer	1
+art restorer	artifact conservator	1
+art restorer	restoration technician	1
+art restorer	stagehand	0
+art restorer	loader & stage hand	0
+art restorer	process metallurgist	0
+art restorer	process metallurgy research scientist	0
+art restorer	machinery assembly coordinator	0
+art restorer	manufacturing co-ordinator	0
+art restorer	crop production manager	0
+art restorer	crop producer	0
+presenter	presenter	1
+presenter	video jockey presenter	1
+presenter	program host	1
+presenter	cultural facilities manager	0
+presenter	cultural facilities program coordinator	0
+presenter	sales assistant	0
+presenter	senior sales assistant	0
+presenter	fruit-press operator	0
+presenter	fruit press worker	0
+presenter	mining assistant	0
+golf instructor	golf instructor	1
+golf instructor	golf coach	1
+golf instructor	junior golf instructor	1
+golf instructor	medical device assembler	0
+golf instructor	medical appliance assembly technician	0
+golf instructor	curator of horticulture	0
+golf instructor	curator and horticulturist	0
+golf instructor	circus artist	0
+golf instructor	german wheel acrobat	0
+golf instructor	transport technology vocational teacher	0
+golf instructor	transportation technology vocational instructor	0
+domestic energy assessor	domestic energy assessor	1
+domestic energy assessor	domestic energy sales promoter	1
+domestic energy assessor	residential energy saleswoman	1
+domestic energy assessor	ride technician	0
+domestic energy assessor	theme park technician	0
+domestic energy assessor	tailor	0
+domestic energy assessor	outfitter	0
+domestic energy assessor	video and motion picture director	0
+domestic energy assessor	television director	0
+domestic energy assessor	metallurgist	0
+domestic energy assessor	consultant metallurgist	0
+membership administrator	membership administrator	1
+membership administrator	account administrator	1
+membership administrator	membership and subscription administrator	1
+membership administrator	mask maker	0
+membership administrator	mask builder and designer	0
+membership administrator	pultrusion machine operator	0
+membership administrator	pultrusion machine operative	0
+membership administrator	audiology equipment specialised seller	0
+membership administrator	audiology shop salesperson	0
+membership administrator	performance artist	0
+membership administrator	impersonator	0
+hand lasting operator	hand lasting operator	1
+hand lasting operator	hand laster	1
+hand lasting operator	hand lasting craftsman	1
+hand lasting operator	journalist	0
+hand lasting operator	commentator	0
+hand lasting operator	aircraft interior technician	0
+hand lasting operator	aircraft furniture maker	0
+hand lasting operator	clothing sample machinist	0
+hand lasting operator	sample clothing sewer	0
+hand lasting operator	coking furnace operator	0
+hand lasting operator	coke quencher operator	0
+nanny	nanny	1
+nanny	au pair	1
+nanny	duenna	1
+nanny	fossil-fuel power plant operator	0
+nanny	combined cycle power plant operator	0
+nanny	recreational therapist	0
+nanny	recreation therapist	0
+nanny	land-based machinery technician	0
+nanny	land-based machinery mechanic	0
+nanny	orthopaedic supply shop manager	0
+nanny	orthopaedic articles store manager	0
+wholesale merchant in perfume and cosmetics	wholesale merchant in perfume and cosmetics	1
+wholesale merchant in perfume and cosmetics	business to business sales consultant in perfume and cosmetics	1
+wholesale merchant in perfume and cosmetics	business to business seller in perfume and cosmetics	1
+wholesale merchant in perfume and cosmetics	curing room worker	0
+wholesale merchant in perfume and cosmetics	tobacco curing room workers	0
+wholesale merchant in perfume and cosmetics	police commissioner	0
+wholesale merchant in perfume and cosmetics	police chief	0
+wholesale merchant in perfume and cosmetics	licensing officer	0
+wholesale merchant in perfume and cosmetics	fire protection specialist	0
+wholesale merchant in perfume and cosmetics	spokesperson	0
+wholesale merchant in perfume and cosmetics	spokesman	0
+riveter	riveter	1
+riveter	rivet tapper	1
+riveter	rivet tosser	1
+riveter	mining assistant	0
+riveter	slitter operator	0
+riveter	slitting machine tender	0
+riveter	paper engineer	0
+riveter	paper engineer	0
+riveter	honey extractor	0
+riveter	honey extraction operative	0
+stringed musical instrument maker	stringed musical instrument maker	1
+stringed musical instrument maker	stringed instrument maker	1
+stringed musical instrument maker	cello maker	1
+stringed musical instrument maker	legal assistant	0
+stringed musical instrument maker	law clerk	0
+stringed musical instrument maker	leather goods production supervisor	0
+stringed musical instrument maker	leather goods cutting room supervisor	0
+stringed musical instrument maker	hair removal technician	0
+stringed musical instrument maker	depilation specialist	0
+stringed musical instrument maker	mixed farmer	0
+stringed musical instrument maker	crofter	0
+textile pattern making machine operator	textile pattern making machine operator	1
+textile pattern making machine operator	textile pattern machine operator	1
+textile pattern making machine operator	textile pattern making operator	1
+textile pattern making machine operator	professional athlete	0
+textile pattern making machine operator	athlete	0
+textile pattern making machine operator	bank manager	0
+textile pattern making machine operator	regional bank manager	0
+textile pattern making machine operator	gambling, betting, and lottery game developer	0
+textile pattern making machine operator	betting, lottery, and gambling games developer	0
+textile pattern making machine operator	rental service representative in office machinery and equipment	0
+textile pattern making machine operator	rental sales worker in office machinery and equipment	0
+ICT test analyst	ict test analyst	1
+ICT test analyst	test designer	1
+ICT test analyst	it test analyst	1
+ICT test analyst	head of workshop	0
+ICT test analyst	deputy workshop manager	0
+ICT test analyst	wood router operator	0
+ICT test analyst	wood routing machine tender	0
+ICT test analyst	integrated circuit design engineer	0
+ICT test analyst	integrated circuit designer	0
+ICT test analyst	textile machine operator	0
+ICT test analyst	textile operations supervisor	0
+hydraulic forging press worker	hydraulic forging press worker	1
+hydraulic forging press worker	hydraulic foundry patternmaker technician	1
+hydraulic forging press worker	hydraulic patternmaking operator	1
+hydraulic forging press worker	human rights officer	0
+hydraulic forging press worker	human rights programme officer	0
+hydraulic forging press worker	toymaker	0
+hydraulic forging press worker	plaything repairer	0
+hydraulic forging press worker	business valuer	0
+hydraulic forging press worker	chartered appraiser	0
+hydraulic forging press worker	actuarial assistant	0
+hydraulic forging press worker	actuarial analyst assistant	0
+tissue paper perforating and rewinding operator	tissue paper perforating and rewinding operator	1
+tissue paper perforating and rewinding operator	tissue paper perforating and rewinding specialist	1
+tissue paper perforating and rewinding operator	tissue paper perforating and rewinding technician	1
+tissue paper perforating and rewinding operator	energy systems engineer	0
+tissue paper perforating and rewinding operator	energy conservation engineer	0
+tissue paper perforating and rewinding operator	aviation meteorologist	0
+tissue paper perforating and rewinding operator	aviation meteorological specialist	0
+tissue paper perforating and rewinding operator	recreation policy officer	0
+tissue paper perforating and rewinding operator	sports and recreation policy advisor	0
+tissue paper perforating and rewinding operator	respiratory therapy technician	0
+tissue paper perforating and rewinding operator	oxygen therapy technician	0
+animal massage therapist	animal massage therapist	1
+animal massage therapist	animal masseur	1
+animal massage therapist	animal massage therapists	1
+animal massage therapist	ceramic painter	0
+animal massage therapist	painter of ceramic articles	0
+animal massage therapist	wholesale merchant in tobacco products	0
+animal massage therapist	wholesale buyer in tobacco products	0
+animal massage therapist	road construction worker	0
+animal massage therapist	highway construction worker	0
+animal massage therapist	fat-purification worker	0
+animal massage therapist	fat purifier	0
+aircraft engine specialist	aircraft engine specialist	1
+aircraft engine specialist	engine test specialist	1
+aircraft engine specialist	aeroplane engine technician	1
+aircraft engine specialist	rolling stock engineering drafter	0
+aircraft engine specialist	rolling stock engineering drafting specialist	0
+aircraft engine specialist	tourist information officer	0
+aircraft engine specialist	tourist point information officer	0
+aircraft engine specialist	textile operations manager	0
+aircraft engine specialist	textile production operations manager	0
+aircraft engine specialist	cosmologist	0
+aircraft engine specialist	evolutionary cosmologist	0
+boxing instructor	boxing instructor	1
+boxing instructor	kickboxing instructor	1
+boxing instructor	kick-boxing instructor	1
+boxing instructor	telephone switchboard operator	0
+boxing instructor	receptionist telephone operator	0
+boxing instructor	housing manager	0
+boxing instructor	housing agent	0
+boxing instructor	marine engineering drafter	0
+boxing instructor	marine engineering drafting specialist	0
+boxing instructor	communications lecturer	0
+boxing instructor	lecturer in communication and media	0
+animal care attendant	animal care attendant	1
+animal care attendant	laboratory animal care worker	1
+animal care attendant	equine groom	1
+animal care attendant	ict network administrator	0
+animal care attendant	network manager	0
+animal care attendant	legal service manager	0
+animal care attendant	legal office head	0
+animal care attendant	sign language teacher	0
+animal care attendant	british sign language tutor	0
+animal care attendant	landscape architect	0
+animal care attendant	landscape expert	0
+shop assistant	shop assistant	1
+shop assistant	supermarket shop worker	1
+shop assistant	outlet centre shop assistant	1
+shop assistant	shepherd	0
+shop assistant	shepherds	0
+shop assistant	household goods distribution manager	0
+shop assistant	assistant household goods distribution manager	0
+shop assistant	anodising machine operator	0
+shop assistant	anodiser	0
+shop assistant	biochemistry technician	0
+shop assistant	chemistry technologist	0
+fleet commander	fleet commander	1
+fleet commander	deputy chief of naval staff	1
+fleet commander	navy commander	1
+fleet commander	venture capitalist	0
+fleet commander	seed capital investors	0
+fleet commander	insurance collector	0
+fleet commander	insurance claims clerk	0
+fleet commander	sales processor	0
+fleet commander	order processor	0
+fleet commander	gemmologist	0
+fleet commander	gemmology research analyst	0
+animal therapist	animal therapist	1
+animal therapist	animal rehab therapist	1
+animal therapist	animal rehabilitation therapist	1
+animal therapist	pension scheme manager	0
+animal therapist	pension services manager	0
+animal therapist	bartender	0
+animal therapist	bar staff	0
+animal therapist	front of house manager	0
+animal therapist	theatre front of house manager	0
+animal therapist	3d printing technician	0
+animal therapist	3d printing operator	0
+paramedic in emergency responses	paramedic in emergency responses	1
+paramedic in emergency responses	specialist paramedic	1
+paramedic in emergency responses	expert paramedic	1
+paramedic in emergency responses	viticulture adviser	0
+paramedic in emergency responses	viticulturist	0
+paramedic in emergency responses	hydrologist	0
+paramedic in emergency responses	hydrology researcher	0
+paramedic in emergency responses	sociology lecturer	0
+paramedic in emergency responses	instructor in sociology	0
+paramedic in emergency responses	checkout supervisor	0
+paramedic in emergency responses	checkout manager	0
+door installer	door installer	1
+door installer	door installation worker	1
+door installer	door fitter	1
+door installer	presenter	0
+door installer	video jockey presenter	0
+door installer	accounting assistant	0
+door installer	junior accountant	0
+door installer	lottery cashier	0
+door installer	lottery retailer cashier	0
+door installer	dog breeder	0
+fluid power technician	fluid power technician	1
+fluid power technician	hydraulic liquid inspector	1
+fluid power technician	fluid power operator	1
+fluid power technician	recruitment consultant	0
+fluid power technician	job placement officer	0
+fluid power technician	plastic heat treatment equipment operator	0
+fluid power technician	heat treating equipment setter	0
+fluid power technician	kosher butcher	0
+fluid power technician	kosher meat butcher	0
+fluid power technician	drill operator	0
+fluid power technician	oil rig driller	0
+corporate trainer	corporate trainer	1
+corporate trainer	in-company trainer	1
+corporate trainer	skills development coach	1
+corporate trainer	terrazzo setter	0
+corporate trainer	terrazzo layer	0
+corporate trainer	emergency ambulance driver	0
+corporate trainer	technician in emergency medical care	0
+corporate trainer	import export specialist in metals and metal ores	0
+corporate trainer	assistant export specialist in metals and metal ores	0
+corporate trainer	ship pilot dispatcher	0
+corporate trainer	dispatcher of ship pilots	0
+steam engineer	steam engineer	1
+steam engineer	steam engineering adviser	1
+steam engineer	power steam engineer	1
+steam engineer	plodder operator	0
+steam engineer	soap production worker	0
+steam engineer	import export specialist in hardware, plumbing and heating equipment	0
+steam engineer	graduate import specialist in hardware, plumbing and heating equipment	0
+steam engineer	mixed farmer	0
+steam engineer	crofter	0
+steam engineer	legislative drafter	0
+steam engineer	parliamentary drafter	0
+medicine lecturer	medicine lecturer	1
+medicine lecturer	clinical lecturer	1
+medicine lecturer	university lecturer in medicine	1
+medicine lecturer	door installer	0
+medicine lecturer	door installation worker	0
+medicine lecturer	operations manager	0
+medicine lecturer	operations general manager	0
+medicine lecturer	advanced nurse practitioner	0
+medicine lecturer	clinical trials nurse	0
+medicine lecturer	printed circuit board test technician	0
+medicine lecturer	pcb tester	0
+telephone switchboard operator	telephone switchboard operator	1
+telephone switchboard operator	receptionist telephone operator	1
+telephone switchboard operator	communication centre operator	1
+telephone switchboard operator	soil surveying technician	0
+telephone switchboard operator	field survey technician	0
+telephone switchboard operator	punch press operator	0
+telephone switchboard operator	cnc laser punch press operator	0
+telephone switchboard operator	natural resources consultant	0
+telephone switchboard operator	resources consultant	0
+telephone switchboard operator	sound operator	0
+telephone switchboard operator	sound board technician	0
+doctors' surgery assistant	doctors' surgery assistant	1
+doctors' surgery assistant	cast assistant	1
+doctors' surgery assistant	radiology assistant	1
+doctors' surgery assistant	soap chipper	0
+doctors' surgery assistant	soap chipping machine operator	0
+doctors' surgery assistant	physics lecturer	0
+doctors' surgery assistant	university physics teacher	0
+doctors' surgery assistant	research engineer	0
+doctors' surgery assistant	engineering science researcher	0
+doctors' surgery assistant	airside safety manager	0
+doctors' surgery assistant	aviation safety manager	0
+cable jointer	cable jointer	1
+cable jointer	electric powerline cabler	1
+cable jointer	electricity cable jointer	1
+cable jointer	au pair	0
+cable jointer	baby sitter	0
+cable jointer	recording studio technician	0
+cable jointer	studio sound engineer	0
+cable jointer	agricultural scientist	0
+cable jointer	agricultural biotechnology research scientist	0
+cable jointer	power production plant operator	0
+cable jointer	electric power station operative	0
+horse riding instructor	horse riding instructor	1
+horse riding instructor	horse riding teacher	1
+horse riding instructor	therapeutic riding instructor	1
+horse riding instructor	motor vehicle shop manager	0
+horse riding instructor	sales manager motor trade	0
+horse riding instructor	head of workshop	0
+horse riding instructor	deputy workshop manager	0
+horse riding instructor	academic advisor	0
+horse riding instructor	degree program guidance practitioner	0
+horse riding instructor	aquaculture biologist	0
+horse riding instructor	expert in aquaculture biology	0
+delivery driver	delivery driver	1
+delivery driver	delivery driver	1
+delivery driver	pizza delivery person	1
+delivery driver	heating, ventilation, air conditioning (and refrigeration) service engineer	0
+delivery driver	heating instrument inspector	0
+delivery driver	air pollution analyst	0
+delivery driver	air quality consultant	0
+delivery driver	animal welfare inspector	0
+delivery driver	animal social worker	0
+delivery driver	boatswain	0
+delivery driver	senior crewwoman	0
+digital forensics expert	digital forensics expert	1
+digital forensics expert	ict forensics expert	1
+digital forensics expert	information forensics expert	1
+digital forensics expert	clothing fashion designer	0
+digital forensics expert	couturier	0
+digital forensics expert	fire prevention and protection engineer	0
+digital forensics expert	fire protection engineer	0
+digital forensics expert	financial broker	0
+digital forensics expert	broker	0
+digital forensics expert	telecommunications technician	0
+digital forensics expert	telecommunications systems technician	0
+medical device engineer	medical device engineer	1
+medical device engineer	engineer in biomedical systems	1
+medical device engineer	engineer of medical devices	1
+medical device engineer	private pilot	0
+medical device engineer	light aircraft pilot	0
+medical device engineer	import export manager in computers, computer peripheral equipment and software	0
+medical device engineer	graduate export manager in computers, computer peripheral equipment and software	0
+medical device engineer	soap drier operator	0
+medical device engineer	flaker operator	0
+medical device engineer	solar energy sales consultant	0
+medical device engineer	solar power sales advisor	0
+telecommunication equipment shop manager	telecommunication equipment shop manager	1
+telecommunication equipment shop manager	phone store manager	1
+telecommunication equipment shop manager	mobile phone and devices shop manager	1
+telecommunication equipment shop manager	business journalist	0
+telecommunication equipment shop manager	business & finance journalist	0
+telecommunication equipment shop manager	extra	0
+telecommunication equipment shop manager	background actress	0
+telecommunication equipment shop manager	recreation policy officer	0
+telecommunication equipment shop manager	sports and recreation policy advisor	0
+telecommunication equipment shop manager	tourist information officer	0
+telecommunication equipment shop manager	tourist point information officer	0
+import export manager in agricultural machinery and equipment	import export manager in agricultural machinery and equipment	1
+import export manager in agricultural machinery and equipment	assistant export manager in agricultural machinery and equipment	1
+import export manager in agricultural machinery and equipment	assistant import manager in agricultural machinery and equipment	1
+import export manager in agricultural machinery and equipment	sales engineer	0
+import export manager in agricultural machinery and equipment	pcv sales technician	0
+import export manager in agricultural machinery and equipment	physics technician	0
+import export manager in agricultural machinery and equipment	physics lab technician	0
+import export manager in agricultural machinery and equipment	manufactured wooden building assembler	0
+import export manager in agricultural machinery and equipment	prefab house joiner	0
+import export manager in agricultural machinery and equipment	archive manager	0
+import export manager in agricultural machinery and equipment	archivist	0
+quantity surveyor	quantity surveyor	1
+quantity surveyor	qs	1
+quantity surveyor	quntity surveyor	1
+quantity surveyor	stamping press operator	0
+quantity surveyor	stamp press operative	0
+quantity surveyor	textile machinery technician	0
+quantity surveyor	textile machinery installer	0
+quantity surveyor	secretary	0
+quantity surveyor	secretarial assistant	0
+quantity surveyor	philosophy lecturer	0
+quantity surveyor	university philosophy teacher	0
+vessel operations coordinator	vessel operations coordinator	1
+vessel operations coordinator	shipping traffic coordinator	1
+vessel operations coordinator	voc	1
+vessel operations coordinator	exhibition curator	0
+vessel operations coordinator	art gallery curator	0
+vessel operations coordinator	personal trainer	0
+vessel operations coordinator	well-being personal trainer	0
+vessel operations coordinator	rigging supervisor	0
+vessel operations coordinator	rigging and lifting supervisor	0
+vessel operations coordinator	fight director	0
+vessel operations coordinator	sword fight director	0
+historian	historian	1
+historian	diplomatic historian	1
+historian	historians	1
+historian	footwear hand sewer	0
+historian	mocassin sewer	0
+historian	agricultural technician	0
+historian	assistant in agricultural research	0
+historian	outdoor activities instructor	0
+historian	outdoor pursuits group leader	0
+historian	computer hardware engineer	0
+historian	specialist it hardware engineer	0
+ICT security consultant	ict security consultant	1
+ICT security consultant	it security expert	1
+ICT security consultant	it security consultant	1
+ICT security consultant	dental hygienist	0
+ICT security consultant	dental therapist	0
+ICT security consultant	agriculture, forestry and fishery vocational teacher	0
+ICT security consultant	vocational educator in agriculture, fishery and forestry	0
+ICT security consultant	surface mine plant operator	0
+ICT security consultant	quarry earth moving equipment operative	0
+ICT security consultant	wholesale merchant in textile industry machinery	0
+ICT security consultant	senior wholesale merchant in textile industry machinery	0
+chemical production manager	chemical production manager	1
+chemical production manager	chemical production director	1
+chemical production manager	chemical operations manager	1
+chemical production manager	integrated circuit design engineer	0
+chemical production manager	integrated circuit designer	0
+chemical production manager	tool and die maker	0
+chemical production manager	tool machine operative	0
+chemical production manager	rolling stock assembler	0
+chemical production manager	railcar assembler	0
+chemical production manager	textile colourist	0
+chemical production manager	colorist dyer	0
+child care social worker	child care social worker	1
+child care social worker	social worker (child protection)	1
+child care social worker	social worker (looked after children)	1
+child care social worker	physical education vocational teacher	0
+child care social worker	teacher of vocational physical education	0
+child care social worker	varnish maker	0
+child care social worker	varnish production process operative	0
+child care social worker	dental practitioner	0
+child care social worker	principal dentist	0
+child care social worker	building construction worker	0
+child care social worker	construction site worker	0
+air traffic manager	air traffic manager	1
+air traffic manager	air traffic operations supervisor	1
+air traffic manager	air traffic supervisor	1
+air traffic manager	stop-motion animator	0
+air traffic manager	stop motion animation specialist	0
+air traffic manager	foundry manager	0
+air traffic manager	process manager	0
+air traffic manager	labour market policy officer	0
+air traffic manager	labor policy officer	0
+air traffic manager	gas transmission system operator	0
+air traffic manager	gas transmission system operative	0
+ICT teacher secondary school	ict teacher secondary school	1
+ICT teacher secondary school	high school information and communication technology teacher	1
+ICT teacher secondary school	teacher of ict in high school	1
+ICT teacher secondary school	fertiliser mixer	0
+ICT teacher secondary school	fertiliser mixing machine operator	0
+ICT teacher secondary school	geological engineer	0
+ICT teacher secondary school	construction geologist	0
+ICT teacher secondary school	blanching operator	0
+ICT teacher secondary school	blancher	0
+ICT teacher secondary school	sewerage cleaner	0
+lime kiln operator	lime kiln operator	1
+lime kiln operator	vertical kiln operator	1
+lime kiln operator	draw kiln operator	1
+lime kiln operator	dangerous goods safety adviser	0
+lime kiln operator	dangerous goods safety person	0
+lime kiln operator	wholesale merchant in electronic and telecommunications equipment and parts	0
+lime kiln operator	senior wholesale merchant in electronic and telecommunications equipment and parts	0
+lime kiln operator	public speaking coach	0
+lime kiln operator	public speaking mentor	0
+lime kiln operator	animal physiotherapist	0
+lime kiln operator	animal physical threapist	0
+water-based aquaculture technician	water-based aquaculture technician	1
+water-based aquaculture technician	water-based fish farm technician	1
+water-based aquaculture technician	water-based fisheries technician	1
+water-based aquaculture technician	dietetic technician	0
+water-based aquaculture technician	medical dietetics technician	0
+water-based aquaculture technician	animal feed supervisor	0
+water-based aquaculture technician	animal feed production processor	0
+water-based aquaculture technician	ict information and knowledge manager	0
+water-based aquaculture technician	it knowledge manager	0
+water-based aquaculture technician	beverages specialised seller	0
+water-based aquaculture technician	alcoholic beverages store specialised salesperson	0
+meteorology technician	meteorology technician	1
+meteorology technician	atmospheric scientist technician	1
+meteorology technician	meteorological technician	1
+meteorology technician	e-learning developer	0
+meteorology technician	elearning developers	0
+meteorology technician	corporate trainer	0
+meteorology technician	in-company trainer	0
+meteorology technician	mobile crane operator	0
+meteorology technician	lorry-mounted crane driver	0
+meteorology technician	food production planner	0
+meteorology technician	food production planning expert	0
+chemist	chemist	1
+chemist	toxicologist	1
+chemist	chemical researcher	1
+chemist	venue programmer	0
+chemist	dance programmer	0
+chemist	stonemason	0
+chemist	craft stonemason	0
+chemist	financial trader	0
+chemist	quantitative trader	0
+chemist	fitness instructor	0
+chemist	strength and conditioning coach	0
+ammunition specialised seller	ammunition specialised seller	1
+ammunition specialised seller	firearms salesperson	1
+ammunition specialised seller	hunting equipment specialised seller	1
+ammunition specialised seller	fact checker	0
+ammunition specialised seller	researcher/fact checker	0
+ammunition specialised seller	fisheries master	0
+ammunition specialised seller	master of fishing vessel	0
+ammunition specialised seller	archaeology lecturer	0
+ammunition specialised seller	instructor in archaeology	0
+ammunition specialised seller	modern languages lecturer	0
+ammunition specialised seller	modern languages teacher	0
+sound operator	sound operator	1
+sound operator	sound board technician	1
+sound operator	sound board operator	1
+sound operator	aircraft dispatcher	0
+sound operator	airline dispatcher	0
+sound operator	consultant social worker	0
+sound operator	social work consultant	0
+sound operator	capsule filling machine operator	0
+sound operator	pharmaceutical machine operative	0
+sound operator	social work lecturer	0
+sound operator	university lecturer in social work and social policy	0
+laundry worker	laundry worker	1
+laundry worker	dry cleaning worker	1
+laundry worker	laundry and dry cleaning operator	1
+laundry worker	provincial governor	0
+laundry worker	state governor	0
+laundry worker	toymaker	0
+laundry worker	plaything repairer	0
+laundry worker	motor vehicle shop manager	0
+laundry worker	sales manager motor trade	0
+laundry worker	inland water transport general manager	0
+laundry worker	manager of inland water transport	0
+biotechnical technician	biotechnical technician	1
+biotechnical technician	biotechnological laboratory technician	1
+biotechnical technician	biotechnical laboratory worker	1
+biotechnical technician	script writer	0
+biotechnical technician	tv script writer	0
+biotechnical technician	poultry sexer	0
+biotechnical technician	chicken sexer	0
+biotechnical technician	sensor engineering technician	0
+biotechnical technician	assistant in sensor engineering	0
+biotechnical technician	location manager	0
+biotechnical technician	film location coordinator	0
+granulator machine operator	granulator machine operator	1
+granulator machine operator	pharmaceutical granulating machine operator	1
+granulator machine operator	granulating machine operator	1
+granulator machine operator	toys and games shop manager	0
+granulator machine operator	models and games store manager	0
+granulator machine operator	animal hydrotherapist	0
+granulator machine operator	animal hydrotherapists	0
+granulator machine operator	drafter	0
+granulator machine operator	draftsperson	0
+granulator machine operator	fragrance chemist	0
+granulator machine operator	perfume and cosmetics formulator	0
+audio describer	audio describer	1
+audio describer	audio description expert	1
+audio describer	video describer	1
+audio describer	airline transport pilot	0
+audio describer	aircraft captain	0
+audio describer	laundry ironer	0
+audio describer	presser	0
+audio describer	metal engraver	0
+audio describer	precious metal engraver	0
+audio describer	coating machine operator	0
+audio describer	coater operator	0
+construction general supervisor	construction general supervisor	1
+construction general supervisor	constructtion general supervisor	1
+construction general supervisor	construction programme supervisor	1
+construction general supervisor	avionics inspector	0
+construction general supervisor	aviation safety inspector	0
+construction general supervisor	sterile services technician	0
+construction general supervisor	disinfection assistant	0
+construction general supervisor	drama teacher secondary school	0
+construction general supervisor	dramatic arts teacher secondary school	0
+construction general supervisor	electronic equipment assembler	0
+construction general supervisor	electronics assembler	0
+chief marketing officer	chief marketing officer	1
+chief marketing officer	chief commercial strategist	1
+chief marketing officer	head of marketing	1
+chief marketing officer	respiratory therapy technician	0
+chief marketing officer	oxygen therapy technician	0
+chief marketing officer	motorcycle instructor	0
+chief marketing officer	motorcycle driving instructor	0
+chief marketing officer	meat preparations operator	0
+chief marketing officer	meatworker	0
+chief marketing officer	night auditor	0
+chief marketing officer	night time customer auditor	0
+field survey manager	field survey manager	1
+field survey manager	field survey project manager	1
+field survey manager	survey field manager	1
+field survey manager	pyrotechnic designer	0
+field survey manager	pyrotechnician & choreographer	0
+field survey manager	distillery miller	0
+field survey manager	distillery grain miller	0
+field survey manager	fruit and vegetables distribution manager	0
+field survey manager	senior fruit and vegetables distribution manager	0
+field survey manager	mine ventilation engineer	0
+field survey manager	ventilation officer	0
+boring machine operator	boring machine operator	1
+boring machine operator	borer operating technician	1
+boring machine operator	vertical boring machine operator	1
+boring machine operator	commissioning technician	0
+boring machine operator	financial auditor	0
+boring machine operator	internal auditor	0
+boring machine operator	milk heat treatment process operator	0
+boring machine operator	milk treatment operator	0
+boring machine operator	motorcycle delivery person	0
+boring machine operator	timed delivery motorcycle driver	0
+musical conductor	musical conductor	1
+musical conductor	choir leader	1
+musical conductor	band leader	1
+musical conductor	mine planning engineer	0
+musical conductor	mine production scheduler	0
+musical conductor	catcher	0
+musical conductor	poultry gatherer	0
+musical conductor	tobacco specialised seller	0
+musical conductor	cigarette specialised seller	0
+musical conductor	system configurator	0
+musical conductor	systems configurator	0
+leather goods production supervisor	leather goods production supervisor	1
+leather goods production supervisor	leather goods cutting room supervisor	1
+leather goods production supervisor	leather goods closing room supervisor	1
+leather goods production supervisor	newspaper editor	0
+leather goods production supervisor	news editor	0
+leather goods production supervisor	cartoonist	0
+leather goods production supervisor	political cartoonist	0
+leather goods production supervisor	building cleaner	0
+leather goods production supervisor	janitor	0
+leather goods production supervisor	import export specialist in watches and jewellery	0
+leather goods production supervisor	assistant import export specialist in watches and jewellery	0
+renewable energy engineer	renewable energy engineer	1
+renewable energy engineer	renewables engineer	1
+renewable energy engineer	project engineer, pv array	1
+renewable energy engineer	post office counter clerk	0
+renewable energy engineer	mail services counter clerk	0
+renewable energy engineer	security alarm investigator	0
+renewable energy engineer	residential alarm system specialist	0
+renewable energy engineer	bathroom fitter	0
+renewable energy engineer	replacement bathroom installer	0
+renewable energy engineer	ict quality assurance manager	0
+renewable energy engineer	ict quality manager	0
+microelectronics engineering technician	microelectronics engineering technician	1
+microelectronics engineering technician	microelectronics technician	1
+microelectronics engineering technician	micro-electronics engineering technician	1
+microelectronics engineering technician	bridge inspector	0
+microelectronics engineering technician	highway structures inspector	0
+microelectronics engineering technician	squadron leader	0
+microelectronics engineering technician	air force commandant	0
+microelectronics engineering technician	special educational needs coordinator	0
+microelectronics engineering technician	special educational needs officer	0
+microelectronics engineering technician	parking valet	0
+microelectronics engineering technician	car parker	0
+tower crane operator	tower crane operator	1
+tower crane operator	tower crane driver	1
+tower crane operator	tower crane operative	1
+tower crane operator	oil and gas production manager	0
+tower crane operator	oil production manager	0
+tower crane operator	gambling manager	0
+tower crane operator	gambling general manager	0
+tower crane operator	wood fuel pelletiser	0
+tower crane operator	wood pelletiser worker	0
+tower crane operator	astronaut	0
+tower crane operator	cosmonaut	0
+refurbishing technician	refurbishing technician	1
+refurbishing technician	car engine technician	1
+refurbishing technician	van refurbishing technician	1
+refurbishing technician	typesetter	0
+refurbishing technician	typesetting technician	0
+refurbishing technician	policy officer	0
+refurbishing technician	policy analyst	0
+refurbishing technician	hair removal technician	0
+refurbishing technician	depilation specialist	0
+refurbishing technician	wholesale merchant in mining, construction and civil engineering machinery	0
+refurbishing technician	senior wholesale merchant in  mining, construction and civil engineering machinery	0
+investment manager	investment manager	1
+investment manager	investment consultant	1
+investment manager	global investment manager	1
+investment manager	hop farmer	0
+investment manager	organic hop farmer	0
+investment manager	wholesale merchant in meat and meat products	0
+investment manager	business to business seller in meat and meat products	0
+investment manager	tracer powder blender	0
+investment manager	flammable chemical mixer	0
+investment manager	rail logistics coordinator	0
+investment manager	rail transportation coordinator	0
+call centre agent	call centre agent	1
+call centre agent	outbound call center agent	1
+call centre agent	call centre taker	1
+call centre agent	solar energy engineer	0
+call centre agent	solar energy technology engineering specialist	0
+call centre agent	call centre analyst	0
+call centre agent	trainee data analyst	0
+call centre agent	specialised seller	0
+call centre agent	specialized sales advisor	0
+call centre agent	optomechanical engineer	0
+call centre agent	optomechanical technology engineering specialist	0
+fur animals breeder	fur animals breeder	1
+fur animals breeder	fur animals specialist	1
+fur animals breeder	fur animals breeders	1
+fur animals breeder	medical device assembler	0
+fur animals breeder	medical appliance assembly technician	0
+fur animals breeder	stage machinist	0
+fur animals breeder	flying system technician	0
+fur animals breeder	regulatory affairs manager	0
+fur animals breeder	regulatory compliance manager	0
+fur animals breeder	horse breeder	0
+fur animals breeder	stud specialist	0
+secretary of state	secretary of state	1
+secretary of state	state secretary	1
+secretary of state	senior minister	1
+secretary of state	beauty salon manager	0
+secretary of state	beauty salon director	0
+secretary of state	rescue centre manager	0
+secretary of state	rescue centre coordinator	0
+secretary of state	migrant social worker	0
+secretary of state	migrant advice and support worker	0
+secretary of state	forklift operator	0
+secretary of state	warehouse forklift operator	0
+intelligent lighting engineer	intelligent lighting engineer	1
+intelligent lighting engineer	intelligent lighting technician	1
+intelligent lighting engineer	automated lighting technician	1
+intelligent lighting engineer	airline food service worker	0
+intelligent lighting engineer	food services worker	0
+intelligent lighting engineer	rubber goods assembler	0
+intelligent lighting engineer	rubber goods production operative	0
+intelligent lighting engineer	hydrogeologist	0
+intelligent lighting engineer	hydrogeological consultant	0
+intelligent lighting engineer	parking valet	0
+intelligent lighting engineer	car parker	0
+missionary	missionary	1
+missionary	missions pastor	1
+missionary	city missionary	1
+missionary	survey enumerator	0
+missionary	commercial census taker	0
+missionary	health psychologist	0
+missionary	specialist healthcare psychologist	0
+missionary	hazardous waste technician	0
+missionary	waste disposal site compliance technician	0
+missionary	stop-motion animator	0
+missionary	stop motion animation specialist	0
+rolling stock engineering technician	rolling stock engineering technician	1
+rolling stock engineering technician	rolling stock equipment assembler	1
+rolling stock engineering technician	rolling stock electronic equipment installer	1
+rolling stock engineering technician	social security inspector	0
+rolling stock engineering technician	single fraud investigation service officer	0
+rolling stock engineering technician	medical administrative assistant	0
+rolling stock engineering technician	health services administrative assistant	0
+rolling stock engineering technician	inland water transport general manager	0
+rolling stock engineering technician	manager of inland water transport	0
+rolling stock engineering technician	equality and inclusion manager	0
+rolling stock engineering technician	employment equity director	0
+real estate manager	real estate manager	1
+real estate manager	property management agent	1
+real estate manager	co-ownership property manager	1
+real estate manager	refinery shift manager	0
+real estate manager	head of oil refinery	0
+real estate manager	ict consultant	0
+real estate manager	ict erp consultant	0
+real estate manager	cadastral technician	0
+real estate manager	cadastral mapping technician	0
+real estate manager	heating, ventilation, air conditioning (and refrigeration) drafter	0
+real estate manager	heating, ventilation, air conditioning (and refrigeration) draughter	0
+civil engineering technician	civil engineering technician	1
+civil engineering technician	civil engineering superintendent	1
+civil engineering technician	road engineering superintendent	1
+civil engineering technician	perfume and cosmetics distribution manager	0
+civil engineering technician	graduate perfume and cosmetics distribution manager	0
+civil engineering technician	forwarding manager	0
+civil engineering technician	freight forwarding agent	0
+civil engineering technician	mathematics teacher secondary school	0
+civil engineering technician	high school mathematics teacher	0
+civil engineering technician	street food vendor	0
+civil engineering technician	street food supplier	0
+court clerk	court clerk	1
+court clerk	senior court clerk	1
+court clerk	court administation officer	1
+court clerk	electrical engineer	0
+court clerk	electrical engineering consultant	0
+court clerk	ethical hacker	0
+court clerk	system security tester	0
+court clerk	occupational therapist	0
+court clerk	rehabilitation therapist	0
+court clerk	irrigation technician	0
+court clerk	irrigation worker	0
+textile designer	textile designer	1
+textile designer	print designer	1
+textile designer	textile design expert	1
+textile designer	performance artist	0
+textile designer	impersonator	0
+textile designer	emergency response worker	0
+textile designer	first responder	0
+textile designer	nailing machine operator	0
+textile designer	nailing machinist	0
+textile designer	employment and vocational integration consultant	0
+textile designer	outplacement consultant	0
+pharmaceutical quality specialist	pharmaceutical quality specialist	1
+pharmaceutical quality specialist	pharmaceutical quality technician	1
+pharmaceutical quality specialist	pharmaceutical quality control specialist	1
+pharmaceutical quality specialist	crosscut saw operator	0
+pharmaceutical quality specialist	crosscut saw specialist	0
+pharmaceutical quality specialist	matrose	0
+pharmaceutical quality specialist	ab	0
+pharmaceutical quality specialist	performance hairdresser	0
+pharmaceutical quality specialist	hair and wig stylist	0
+pharmaceutical quality specialist	costume attendant	0
+pharmaceutical quality specialist	costume continuity attendant	0
+water conservation technician	water conservation technician	1
+water conservation technician	water conservation officer	1
+water conservation technician	water conservation specialist	1
+water conservation technician	wearing apparel patternmaker	0
+water conservation technician	bespoke wearing apparel patternmaker	0
+water conservation technician	pyrotechnic designer	0
+water conservation technician	pyrotechnician & choreographer	0
+water conservation technician	animation layout artist	0
+water conservation technician	layout technical director	0
+water conservation technician	wastewater engineer	0
+water conservation technician	wastewater technology engineering consultant	0
+briquetting machine operator	briquetting machine operator	1
+briquetting machine operator	briquet machine operator	1
+briquetting machine operator	briquetting machine operators	1
+briquetting machine operator	respiratory therapy technician	0
+briquetting machine operator	oxygen therapy technician	0
+briquetting machine operator	offset printer	0
+briquetting machine operator	newspaper printer	0
+briquetting machine operator	manufacturing engineer	0
+briquetting machine operator	manufacturing engineering adviser	0
+briquetting machine operator	domestic housekeeper	0
+briquetting machine operator	house caretaker couple	0
+sectional belt mould assembler	sectional belt mould assembler	1
+sectional belt mould assembler	v-belt moulder	1
+sectional belt mould assembler	v-belt mold assembler	1
+sectional belt mould assembler	deck officer	0
+sectional belt mould assembler	ship first officer	0
+sectional belt mould assembler	clothing technologist	0
+sectional belt mould assembler	clothing production engineer	0
+sectional belt mould assembler	park guide	0
+sectional belt mould assembler	ranger	0
+sectional belt mould assembler	vessel assembly supervisor	0
+sectional belt mould assembler	boat assembly safety supervisor	0
